@@ -1,0 +1,1 @@
+# Ruby script where you can add your yearly salary and tells you how much you earn per hour
